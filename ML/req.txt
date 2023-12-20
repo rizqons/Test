@@ -1,0 +1,7 @@
+tensorflow 
+keras
+numpy 
+flask
+re
+pandas
+scikit.learn
